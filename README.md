@@ -12,7 +12,9 @@ A completely free, no-install, real-time Morse code messenger that works on desk
 - Works offline-capable after first load
 - 100% client-side – no data sent anywhere
 
-### Perfect for![morse code chat - screenshot](https://github.com/user-attachments/assets/39e5cb40-e5d1-4824-bbab-94ed6d73ca28)
+  [morse code chat - screenshot](https://github.com/user-attachments/assets/39e5cb40-e5d1-4824-bbab-94ed6d73ca28)
+
+### Perfect for!
 
 - Learning Morse code the fun way
 - Ham radio practice ragchews
